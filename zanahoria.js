@@ -1,4 +1,5 @@
 console.log([])
+//la zanahoria es naranja 
 
 //la zanahoria es naranja y es buena para la vista 
 const zanahoria = {
